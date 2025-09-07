@@ -1,0 +1,130 @@
+{
+  "pdfItems": [
+    {
+      "videoUrl": "AIzaSyBeNVka2SlnB1XcswbwHHjsRqlr8ZRsmAU",
+      "pdfUrl": "AIzaSyBeNVka2SlnB1XcswbwHHjsRqlr8ZRsmAU",
+      "publishDate": "2025-09-07",
+      "publishTime": "16:25",
+      "publishTimezone": "-03:00"
+    }
+  ],
+  "channel": {
+    "title": "Tommy Podcast | English Every Day",
+    "logo": "https://yt3.ggpht.com/CDpyWg6-WzYXkttzgthLP3umyvT1pBGJg9pn9_yVS8yIFxqPUsbfmuYdg2wEIVI94IgwJOMulA=s88-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/channel/UCLkhVHjGaunVde5YgvJvhRA"
+  },
+  "videos": [
+    {
+      "id": "kNbMOc6ATtY",
+      "title": "Practce Speak English – Cannabis or weed Let’s make it clear",
+      "thumbnail": "https://i.ytimg.com/vi/kNbMOc6ATtY/hqdefault.jpg",
+      "description": "Welcome to Tommy Podcast – Learn English with Real Stories! In today's episode, we dive into the wor..."
+    },
+    {
+      "id": "FQHNNksGg3k",
+      "title": "English podcast to learn English – Why Consistency Beat Talent in My English Journey",
+      "thumbnail": "https://i.ytimg.com/vi/FQHNNksGg3k/hqdefault.jpg",
+      "description": "Why Consistency Beat Talent in My English Journey | Tommy Podcast Welcome to Tommy Podcast – Learn E..."
+    },
+    {
+      "id": "0aoZ0J3iA20",
+      "title": "English podcast to learn English – The Biggest Lie I Believed About Learning English",
+      "thumbnail": "https://i.ytimg.com/vi/0aoZ0J3iA20/hqdefault.jpg",
+      "description": "The Biggest Lie About Learning English Welcome to Tommy Podcast – Learn English with Real Stories! I..."
+    },
+    {
+      "id": "J2SSfcjXVts",
+      "title": "English podcast to learn English – How I Trained My Brain to Think in English",
+      "thumbnail": "https://i.ytimg.com/vi/J2SSfcjXVts/hqdefault.jpg",
+      "description": "Welcome to Tommy Podcast – Learn English with Real Stories! In today's episode, “How I Trained My Br..."
+    }
+  ],
+  "navbar": {
+    "startColor": "#162a39",
+    "endColor": "#162a39",
+    "angle": "180",
+    "channelNameColor": "#ffffff",
+    "channelNameFontFamily": "",
+    "linksColor": "#ffffff",
+    "linksFontFamily": ""
+  },
+  "hero": {
+    "startColor": "#fafbfb",
+    "endColor": "#dce8ea",
+    "angle": "180",
+    "titleText": "Aprenda Inglês de Verdade com o Tommy Podcast",
+    "titleColor": "#162a39",
+    "titleFontFamily": "",
+    "descriptionText": "Imagina treinar inglês todos os dias com um método comprovado: o famoso shadowing. Aqui, você escuta histórias reais, aprende palavras úteis e ganha confiança para se expressar sem medo. Cada episódio vem com transcrição em PDF, guia de vocabulário e exercícios rápidos para transformar prática em resultado.",
+    "descriptionColor": "#162a39",
+    "descriptionFontFamily": "",
+    "buttonText": "Baixar PDF",
+    "buttonBgColor": "#e60000",
+    "buttonTextColor": "#ffffff",
+    "buttonLink": "#episodes",
+    "buttonBorderRadius": "25"
+  },
+  "episodes": {
+    "startColor": "#000000",
+    "endColor": "#000000",
+    "angle": "180",
+    "titleText": "Episódios Recentes",
+    "titleColor": "#000000",
+    "titleFontFamily": "",
+    "buttonText": "Ver todos os episódios →",
+    "buttonBgColor": "#e60000",
+    "buttonTextColor": "#ffffff",
+    "buttonBorderRadius": "25",
+    "cardLinkText": "Ouvir agora →",
+    "cardLinkColor": "#044bab",
+    "detailedCards": true
+  },
+  "pdf": {
+    "startColor": "#f3f4f6",
+    "endColor": "#f3f4f6",
+    "angle": "180",
+    "titleText": "Material de Apoio para Download",
+    "titleColor": "#162a39",
+    "titleFontFamily": "",
+    "buttonBorderRadius": "12",
+    "listenButtonText": "Ouvir agora →",
+    "listenButtonBgColor": "#000000",
+    "listenButtonTextColor": "#e5e7eb",
+    "pdfButtonText": "Baixar PDF",
+    "pdfButtonBgColor": "#ffffff",
+    "pdfButtonTextColor": "#0249a7"
+  },
+  "about": {
+    "startColor": "#ffffff",
+    "endColor": "#ffffff",
+    "angle": "180",
+    "titleText": "Sobre o Tommy Podcast",
+    "titleColor": "#162a39",
+    "titleFontFamily": "",
+    "descriptionText": "O Tommy Podcast é mais que um podcast, é a sua dose diária de inglês prático. Acreditamos que o aprendizado deve ser leve e divertido. Com episódios curtos e diretos, o Tommy te ajuda a construir confiança e a se comunicar fluentemente no dia a dia. Junte-se à nossa comunidade e transforme o seu inglês, um episódio de cada vez!",
+    "descriptionColor": "#000000",
+    "descriptionFontFamily": "",
+    "imageUrl": "https://wallpapers.com/images/featured-full/imagens-incriveis-k287z98ruunquo28.jpg"
+  },
+  "contact": {
+    "startColor": "#f2f3f5",
+    "endColor": "#f3f4f6",
+    "angle": "180",
+    "titleText": "Fale com o Tommy",
+    "titleColor": "#162a39",
+    "titleFontFamily": "",
+    "descriptionText": "Envie sua pergunta, sugestão ou apenas diga \"olá\"!",
+    "descriptionColor": "#162a39",
+    "descriptionFontFamily": "",
+    "buttonBgColor": "#0249a7",
+    "buttonBorderRadius": "12"
+  },
+  "footer": {
+    "startColor": "#162a39",
+    "endColor": "#162a39",
+    "angle": "180",
+    "text": "© 2025 Tommy Podcast. Todos os direitos reservados.",
+    "textColor": "#ffffff",
+    "fontFamily": ""
+  }
+}
